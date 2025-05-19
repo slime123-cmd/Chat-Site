@@ -117,7 +117,8 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Hello! Welcome to Coinbase Support. <br> How can i assist you today? </p>
+            <p>If you're experiencing any issues with your account, transaction delays, or need help navigating the platform, feel free to let me know, I'm here to help! </p>
           </div>
         `
         break
